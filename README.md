@@ -19,7 +19,8 @@ Calculator for finding the area of various 2D shapes.
 - Open the file `2D-Shape-Area_Calculator` in your C++ IDE (e.g., VS Code, Code::Blocks, Visual Studio) and run the program.
 
 ## Example Output:
-- What area would you like to calculate?(Triangle, Square, Circle, Rectangle, Trapezoid): Circle
-- How many decimal places should the area be? 4
-- Enter the radius: 3.25
-- The area of the circle is 33.1662
+```cpp
+What area would you like to calculate?(Triangle, Square, Circle, Rectangle, Trapezoid): Circle
+How many decimal places should the area be? 4
+Enter the radius: 3.25
+The area of the circle is 33.1662
