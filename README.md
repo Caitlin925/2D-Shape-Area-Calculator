@@ -16,7 +16,7 @@ Calculator for finding the area of various 2D shapes.
 ---------------------------------------------------------------
 
 ## Usage
-- Open the file `2D-Shape-Area_Calculator` in your C++ IDE (e.g., VS Code, Code::Blocks, Visual Studio) and run the program.
+- Open the file `2D-Shape-Area-Calculator` in your C++ IDE (e.g., VS Code, Code::Blocks, Visual Studio) and run the program.
 
 ### Example Output:
 ```cpp
