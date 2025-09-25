@@ -1,6 +1,6 @@
 //2D Shape Area Calculator
 //By: Caitlin Ochuwa
-//Completed: 09//25
+//Completed: 09/23/25
 #include <iostream>
 #include <cmath>
 #include <iomanip>
