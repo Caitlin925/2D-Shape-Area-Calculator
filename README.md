@@ -1,4 +1,4 @@
-# 2D-Shape-Area-Calculator
+# 2DShapeAreaCalculator
 Calculator for finding the area of various 2D shapes. 
 
 ---------------------------------------------------------------
